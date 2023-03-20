@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# read user input
+echo "Enter your email id: "
+read email
+
+echo "Enter your phone number: "
+read phone
+
+echo "Enter your bank account number: "
+read account
+
+# sanitize and trim input
+email=$(echo $email | tr -d '[:space:]')
+phone=$(echo $phone | tr -d '[:space:]')
+account=$(echo $account | tr -d '[:space:]')
+
+# check validity of input
+valid_email=$(echo $email | grep -E '^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$')
+valid_phone=$(echo $phone | grep -E '^[0-9]{10}$')
+valid_account=$(echo $account | grep -E '^[0-9]{5}$')
+
+# display output
+if [ -n "$valid_email" ] && [ -n "$valid_phone" ] && [ -n "$valid_account" ]; then
+    echo "All inputs are valid"
+else
+    echo "Some inputs are invalid"
+fi
+=============================================================
+Explanation:
+
+The read command is used to get input from the user for the variables email, phone and account.
+The tr command is used to remove any spaces from the input using the -d option.
+The grep command is used to check the validity of the input using regular expressions.
+The -E option is used with grep to enable extended regular expressions.
+The regular expressions used to check validity are:
+Email: ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+Phone: ^[0-9]{10}$
+Account: ^[0-9]{5}$
+The -n option is used with grep to check if the output is not empty. If it is not empty, then the input is considered valid.
+The if statement is used to check if all inputs are valid. If yes, then the script displays "All inputs are valid", else it displays "Some inputs are invalid".
+You can save the above code in a file with a .sh extension and execute it in the terminal using the following command:
+
+Copy code
+bash filename.sh
+Replace filename with the name you gave the script file.
+
+
+
+
+Regenerate response
