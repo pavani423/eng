@@ -1,0 +1,81 @@
+AWS Devops Engineer
+IND BNGL 2nd & 3rd Flr Tower 3
+Job Description
+
+Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun
+
+.
+
+About the team
+
+FIS is searching for talented software engineers for a variety of roles within our Merchant Solutions Technology Development division. You can look forward to an exciting and dynamic career working on a variety of technologies and expect to master multiple programming languages and technology platforms. FIS is committed to continuous modernization of our platforms as we create the innovative financial solutions that improve the way the world banks, pays and invests.
+
+What you will be doing
+
+Automate infrastructure provisioning and server configuration
+
+Tune systems for maximum performance
+
+Provide coordinated support to developers, operations staff, production systems
+
+Establish new DevOps processes and grow the DevOps team
+
+Essential – 
+
+7 to 10 years of experience
+Configuration Management with Ansible Or Puppet
+
+Enterprise Linux Administration (Redhat/CentOS)
+
+Virtualization with VMware
+
+Advanced scripting with Ruby/Python
+
+Active Directory Management and Administration
+
+Source Control Management (Git and/or Subversion)
+
+Experience with CI/CD pipeline (Jenkins)
+
+Advanced troubleshooting and problem solving
+
+Self-starter and team player
+
+Containerization technologies (Docker, Kubernetes)
+
+Desirable  (Good to have)
+
+Hands experience on AWS or Azure.
+
+Educational Qualification: …
+
+A Bachelor’s degree in computer engineering, computer science or other related discipline or the equivalent combination of education, training, or work experience.
+
+Added Bonus if you have:
+
+Knowledge of FIS’ products and services
+
+Knowledge of banking or Financial services industry
+
+What we offer you: 
+
+A range of benefits designed to help support your lifestyle and wellbeing
+
+A multi-faceted job with a broad spectrum of responsibilities
+
+A modern international work environment and a dedicated and innovative team
+
+A broad range of professional education and personal development possibilities – FIS is your final career step!
+
+A work environment built on collaboration, flexibility and respect
+
+Privacy Statement
+
+FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+Sourcing Model
+
+Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+#pridepass
+
